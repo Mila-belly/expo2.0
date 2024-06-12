@@ -1,0 +1,79 @@
+1)Defina Redes de computadores.
+2)Defina IOT,
+3)Qual o objetivo da IOT?
+4)Defina Internet:
+5) Qual o protocolo de comunicação utilizado pela Internet?
+6) Quais desafios a internet enfrenta?
+7) Defina arquitetura ClientexServidor.
+8)Dê exemplos de servidores.
+9)O que é topologia de redes?
+10) Defina Peer-to-Peer.
+11) Onde são aplicados os sistemas P2P? Dê exemplos.
+12)Defina topologia de redes estrela.
+13) Qual a desvantagem da rede estrela?
+14) Defina topologia Barramento. Qual a desvantagem?
+15) Defina topologia Anel: Qual a Desvantagem?
+16) Defina topologia Malha. Qual a desvantagem?
+17) Defina Topologia em Árvore. Qual a desvantagem?
+18) Defina Topologia Híbrida.
+19) Definição de camadas no contexto Redes de computadores.
+20) Quais os benefícios da estrutura em camadas?
+21) Defina o modelo OSI.
+22) Qual camada é responsável pela tradução, criptografia e compactação dos dados?
+23)Qual a única camada que interage com o usuário? E quais protocolos esta
+camada inclui?
+24) Qual o papel da camada de Sessão?
+25) Qual camada é responsável pela sincronização durante o processo de
+transferência de dados?
+26) Quem realiza o controle de erros e fluxo da transferência de dados?
+27) O que ocorre se houver erro na camada de transporte?
+28) Quais os protocolos incluídos na camada de transporte?
+29) Qual camada encontra o melhor caminho  físico para que os dados sejam
+entregues?
+30) Quais protocolos estão presentes na camada de rede?
+31) Defina camada de enlace.
+
+32) Defina camada física.
+33) Defina meios de transmissão no contexto Rede de computadores.
+34) Defina cabo de fibra óptica:
+35) Defina backbone:
+36) Defina RJ45.
+37) Defina cabo coaxial.
+38) Defina wifi:
+39) Defina meio de transmissão utilizando satélite.
+40) Defina meios de transmissão sem fio.
+
+41) Quais são os meios de comunicação sem fio?
+42) Quais são os meios de comunicação sem fio?
+43) Defina protocolo http.
+44) Como é composta uma requisição HTTP?
+45) Qual a função do GET?
+46) Qual a função do post?
+47) qual a função do Put?
+48) qual a função do delete?
+49) O que é uma fake API? Qual relação com a composição do protocolo HTTP?
+50) Em segurança da informação o que é princípio do menor privilégio?
+
+51) Em segurança da informação o que é princípio Gestão de identidade e acesso (IAM)?
+52) Defina Backup.
+53) Defina engenharia social.
+54) Defina teste de vulnerabilidade.
+55) Defina firewall.
+56) Defina VPN:
+57) Defina criptografia dos dados.
+58) Qual o objetivo da segmentação no contexto segurança da informação?
+59) Defina conscientização em segurança da informação.
+60) Defina SQL injection.
+
+61) Qual a resposta de segurança para SQL injection?
+62) Qual comando no cmd permite identificar se um endereço IP está apto para
+ser acessado?
+63) Qual comando no cmd permite identificar os endereços na rede,
+por exemplo o endereço ip do computador na rede?
+64) O que é preciso para que um computador possa responder a requisições web
+de computadores clientes? Justificar.
+65) Defina arduino.
+66) Defina microcontrolador.
+67) Defina protoboard.
+68) Defina resistor.
+69) Defina Led.
